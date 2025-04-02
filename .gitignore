@@ -1,0 +1,7 @@
+output/
+results/
+Helper/
+.vscode
+.venv/
+/Users/vikramanvr/Documents/Globe/web-robot-playwright-tests/pyvenv.cfg
+playwright-log.txt
